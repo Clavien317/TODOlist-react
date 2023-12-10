@@ -1,0 +1,17 @@
+          {/* {data.map((item, index) => (
+            
+            <li key={index}>{item} <button>Supprimer</button><br /><br /><br /></li> 
+          ))
+          }
+          {
+            qte.map((i,k)=>
+            (
+              <li key={k}>{i}</li>
+            ))
+          }
+
+          {
+            unite.map((unity,n)=>(
+              <li key={n}>{unity}</li>
+            ))
+          } */}
